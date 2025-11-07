@@ -6,6 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![App link](assets\link\build exe\Windows_desktop.exe)
+![App link]("assets\link\build exe")
 
 
